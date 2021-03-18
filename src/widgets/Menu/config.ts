@@ -11,10 +11,12 @@ export const links = [
       {
         label: "Exchange",
         href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2F16b8901957C1c3694958D27ba5f872080C3325",
+        external: true
       },
       {
         label: "Liquidity",
         href: "https://exchange.pancakeswap.finance/#/pool",
+        external: true
       },
     ],
   },
@@ -24,7 +26,12 @@ export const links = [
     href: '/farms',
   },
   {
-    label: 'Pools',
+    label: 'Caves',
+    icon: 'CaveIcon',
+    href: '/caves',
+  },
+  {
+    label: 'Blizzard',
     icon: 'PoolIcon',
     href: '/pools',
   },
@@ -35,6 +42,7 @@ export const links = [
       {
         label: 'PancakeSwap',
         href: 'https://pancakeswap.info/token/0x2F16b8901957C1c3694958D27ba5f872080C3325',
+        external: true
       },
     ],
   },
@@ -45,14 +53,17 @@ export const links = [
       {
         label: "Github",
         href: "https://github.com/blzd-dev",
+        external: true
       },
       {
         label: "Docs",
-        href: "https://medium.com/@blizzard.money1",
+        href: "https://blizzardmoney.medium.com",
+        external: true
       },
       {
         label: "Blog",
-        href: "https://medium.com/@blizzard.money1",
+        href: "https://blizzardmoney.medium.com",
+        external: true
       },
     ],
   },
@@ -69,7 +80,7 @@ export const socials = [
       },
       {
         label: "Announcements",
-        href: "https://t.me/BlizzardMoneyAnn",
+        href: "https://t.me/YetiTracker",
       },
     ],
   },
