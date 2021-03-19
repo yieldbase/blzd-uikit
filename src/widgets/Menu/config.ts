@@ -10,7 +10,7 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2F16b8901957C1c3694958D27ba5f872080C3325",
+        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xb183b6E504FB7e27C0a19AD43B0B5f2Ac3d67bf5",
         external: true
       },
       {
@@ -41,7 +41,7 @@ export const links = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x2F16b8901957C1c3694958D27ba5f872080C3325',
+        href: 'https://pancakeswap.info/token/0xb183b6E504FB7e27C0a19AD43B0B5f2Ac3d67bf5',
         external: true
       },
     ],
