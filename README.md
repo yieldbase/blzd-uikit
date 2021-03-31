@@ -33,3 +33,4 @@ import { ResetCSS } from '@blzd-dev/uikit'
 ### Types
 
 This project is built with Typescript and export all the relevant types.
+# footuikit
